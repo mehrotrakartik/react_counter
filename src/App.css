@@ -1,0 +1,18 @@
+.body{
+  background-color: cadetblue;
+}
+.App {
+  text-align: center;
+}
+.btn{
+  color: #61dafb;
+  background-color: darkslateblue;
+  margin-right: 10px;
+  font-size: large;
+  padding-top: 0.5em;
+}
+
+.counter{
+  font-size: 5em;
+  color: chocolate;
+}
